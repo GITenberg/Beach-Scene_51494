@@ -1,0 +1,35 @@
+_repo: Beach-Scene_51494
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: King, Marshall
+    gutenberg_agent_id: '46433'
+    url: http://www.gutenberg.org/2009/agents/46433
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Beach Scene
+url: http://www.gutenberg.org/ebooks/51494
